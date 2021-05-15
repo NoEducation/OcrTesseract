@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/KgLUpiUSovOtBVJz76ARtYObRMEmR1HtLjVEl0Hfabu4QIPgOHkhkqIsD3JedTQ2KHv7w2EIquwPp8i4Bbmg==",
+  "success": true,
+  "projectFilePath": "D:\\ProjektyNET\\OrcTeseract\\OrcTeseract\\OrcTeseract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CEM\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\CEM\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\CEM\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\CEM\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\CEM\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512",
+    "C:\\Users\\CEM\\.nuget\\packages\\tesseract.drawing\\4.1.1\\tesseract.drawing.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
