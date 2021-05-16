@@ -39,10 +39,10 @@ namespace OrcTeseract
                                         {
                                             do
                                             {
-                                                if (iter.IsAtBeginningOf(PageIteratorLevel.Block))
-                                                {
-                                                    Console.WriteLine("<BLOCK>");
-                                                }
+                                                //if (iter.IsAtBeginningOf(PageIteratorLevel.Block))
+                                                //{
+                                                //    Console.WriteLine("<BLOCK>");
+                                                //}
 
                                                 Console.Write(iter.GetText(PageIteratorLevel.Word));
                                                 Console.Write(" ");
